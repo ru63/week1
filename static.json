@@ -1,7 +1,7 @@
 {
   "headers" : {
     "/*" : {
-      "X-Author" : "pc63"
+      "X-Author" : "pc63" , "Access-Control-Allow-Origin" : "*"
     }
   }
 }
